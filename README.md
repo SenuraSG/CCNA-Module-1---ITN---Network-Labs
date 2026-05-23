@@ -1,83 +1,71 @@
-# 🌐 Network Labs Repository
+# 🌐 CCNA Module 1 – Introduction to Networks (ITN)
 
-## 📌 Overview
-Welcome to my **Network Labs Repository**, a collection of hands-on networking practicals and projects completed as part of my journey in mastering computer networking and becoming a Network Engineer.
-
-This repository contains structured lab exercises covering fundamental to advanced networking concepts using tools like Cisco Packet Tracer and real-world configurations.
+Welcome to my **CCNA Module 1 (ITN)** repository.  
+This repository contains practical activities, Packet Tracer labs, and learning resources related to the **Introduction to Networks** module of the CCNA curriculum.
 
 ---
 
-## 🎯 Purpose
-- Practice and strengthen networking concepts
-- Build a strong practical foundation for CCNA and beyond
-- Showcase hands-on skills in network design and configuration
-- Create a professional portfolio for networking roles
+## 🚀 About This Module
+
+Introduction to Networks (ITN) is the first module of the CCNA program and focuses on the fundamentals of computer networking.
+
+This module covers:
+
+- 🔹 Basic networking concepts  
+- 🔹 Network devices and their functions  
+- 🔹 IP addressing fundamentals  
+- 🔹 Ethernet and switching concepts  
+- 🔹 Network protocols and standards  
+- 🔹 Building simple network topologies  
+- 🔹 Introduction to Cisco Packet Tracer  
 
 ---
 
-## 🧪 Labs Included
+## 🛠 Tools & Technologies
 
-### 🔹 CCNA Module Labs
-- Introduction to Networks (ITN)
-- Switching, Routing, and Wireless Essentials (SRWE)
-- Enterprise Networking, Security, and Automation (ENSA)
+- :contentReference[oaicite:0]{index=0}
+- Cisco Networking Academy
+- Networking Fundamentals
+- IPv4 Addressing
 
-### 🔹 Core Networking Topics
-- IP Addressing & Subnetting (VLSM)
-- Static Routing
-- Dynamic Routing (OSPF, RIP, EIGRP)
-- VLAN Configuration
-- Inter-VLAN Routing
-
-### 🔹 Network Services
-- DHCP Configuration
-- DNS Setup
-- Web Server Configuration
-- Email Server Setup
-
-### 🔹 Network Security Basics
-- SSH Configuration
-- Password Policies
-- Port Security
-- Basic Attack Prevention
+Official Website:  
+:contentReference[oaicite:1]{index=1}
 
 ---
 
----
+## 📌 Learning Objectives
 
-## 🛠️ Tools & Technologies
-- Cisco Packet Tracer
-- Networking CLI (IOS Commands)
-- Basic Linux/Server Configuration
+After completing these activities, you will be able to:
 
----
-
-## 🚀 Key Skills Demonstrated
-- Network Design & Topology Creation
-- IP Addressing & Subnetting
-- Routing & Switching Configuration
-- Network Troubleshooting
-- Secure Device Management
+✔ Understand how networks communicate  
+✔ Identify networking devices and media  
+✔ Configure basic network settings  
+✔ Design simple network topologies  
+✔ Use Packet Tracer for simulations and troubleshooting  
 
 ---
 
-## 📈 Learning Journey
-This repository reflects my continuous learning process in networking. Each lab builds on previous knowledge and simulates real-world networking scenarios.
+## 💡 Packet Tracer Labs
+
+This repository includes various `.pkt` files for:
+
+- Basic network setups
+- Router and switch configurations
+- IP addressing practice
+- Topology simulations
+- Networking experiments
 
 ---
 
-## 🔮 Future Improvements
-- Add advanced routing protocols (OSPF multi-area, BGP basics)
-- Network automation using Python
-- Cloud networking concepts
-- Real device configurations
+## 🎓 Course Information
+
+Course: **CCNA v7 – Introduction to Networks (ITN)**  
+Platform: Cisco Networking Academy
 
 ---
 
-## 🤝 Connect With Me
-I am passionate about networking and always open to learning and collaboration.
+## ✨ Keep Learning
 
----
+> “The strength of a network lies in its connections.”
 
-## 📢 Tags
-`#Networking #CCNA #Cisco #NetworkEngineering #LearningByDoing #PacketTracer #ITSkills #StudentPortfolio`
+Happy Learning & Networking 🚀
